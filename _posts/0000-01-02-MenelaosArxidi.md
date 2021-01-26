@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Something new and amazing awaits the future of humanity!
 Use the left arrow to go back!
